@@ -22,8 +22,11 @@ title: 303 101 xyz
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   a blog by Padraic 
+  
   digital collections, web archives, digital preservation and degradation, digital humanities
+  
   The HTTP 303 status code indicates that the browser should redirect to a different url.
+  
   Mostly though I'm at this url because 6 or 8 digit .xyz domains are available for about €0.90 a year
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "303101.xyz" # the base hostname & protocol for your site, e.g. http://example.com
