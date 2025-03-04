@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+A blog by Padraic:  digital collections, web archives, digital preservation and degradation, digital humanities
+  
+The HTTP 303 status code indicates that the browser should redirect to a different url.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Mostly though I'm at this url because 6 or 8 digit .xyz domains are available for about €0.90 a year
