@@ -34,7 +34,7 @@ twitter_username: padraicst
 github_username:  padrai7a
 
 # Build settings
-theme: minima
+remote_theme: long-haul
 plugins:
   - jekyll-feed
 
