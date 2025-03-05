@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 301 101 xyz
+title: 301 101 [dot] xyz
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   a blog:  digital collections, web archives, digital preservation and degradation, digital humanities
